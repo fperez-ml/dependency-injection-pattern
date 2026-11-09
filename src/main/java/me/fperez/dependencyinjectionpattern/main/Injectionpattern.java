@@ -2,8 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package me.fperez.injectionpattern;
+package me.fperez.dependencyinjectionpattern.main;
 
+import me.fperez.dependencyinjectionpattern.di.EmpleadorCliente;
+import me.fperez.dependencyinjectionpattern.di.EmpleadorServicio;
+import me.fperez.dependencyinjectionpattern.modelo.Empleado;
 import java.util.List;
 
 /**
